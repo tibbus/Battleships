@@ -1,0 +1,34 @@
+{
+  "name": "battleships",
+  "version": "0.0.1",
+  "description": "battleships game prototype",
+  "main": "app.js",
+  "dependencies": {
+    "backbone": "^1.2.1",
+    "backbone.marionette": "^2.4.2",
+    "browserify": "^10.2.4",
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-util": "^3.0.6",
+    "jquery": "^2.1.4",
+    "lodash.assign": "^3.2.0",
+    "underscore": "^1.8.3",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiberiu Popescu",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tibbus/Battleships.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tibbus/Battleships/issues"
+  },
+  "homepage": "https://github.com/tibbus/Battleships"
+}
